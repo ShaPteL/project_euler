@@ -1,4 +1,4 @@
 # project_euler
-初心者coderの僕ことShaPteLが、至らぬながらもProject Eulerを解いて解法を共有します。
+初心者coderの私ことShaPteLが、至らぬながらもProject Eulerを解いて解法を共有します。
 これは自己満足によるものです。
 結構ぺたぺたコメントを書くきらいがあるので、私と同じ段階にいる初心者さんの助けにはなるかも。
