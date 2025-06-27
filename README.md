@@ -1,2 +1,3 @@
 # project_euler
-Project Eulerは1~100までの解法は公開が許可されます。ここは、私が自己満足で解答例のPythonソースコードを貼る場所です。
+初心者coderの私ことShaPteLが、至らぬながらもProject Eulerを解いて解法を共有します。
+これは自己満足によるものです。
